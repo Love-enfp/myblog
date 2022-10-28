@@ -8,7 +8,7 @@ import { Button } from 'antd'
 export default function index() {
   return (
     <div>
-        <Button type='primary'>你好啊</Button>
+        <Button type='primary'>你好啊我按钮</Button>
         <div className='home-header'> 头部 </div>
         <div className="home-recommend">推荐列表</div>
         <div className="home-article">文章列表</div>
